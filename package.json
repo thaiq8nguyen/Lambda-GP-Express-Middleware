@@ -1,0 +1,23 @@
+{
+  "name": "Lambda-GP-Express-Middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiq8nguyen/Lambda-GP-Express-Middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiq8nguyen/Lambda-GP-Express-Middleware/issues"
+  },
+  "homepage": "https://github.com/thaiq8nguyen/Lambda-GP-Express-Middleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
